@@ -1,6 +1,6 @@
 # Animal Identification AI
 
-**a fun game where it allos me to guess which animal you are thinking about**
+**a fun game where it allows me to guess which animal you are thinking about**
 
 -**An AI-based system that identifies animals based on user responses using a rule-based approach**.
 
