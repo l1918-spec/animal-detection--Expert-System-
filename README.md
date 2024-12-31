@@ -1,4 +1,4 @@
-# Animal Identification AI
+# Animal Identification AI :
 
 **a fun game where it allows me to guess which animal you are thinking about**
 
